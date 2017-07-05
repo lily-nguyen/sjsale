@@ -3,5 +3,8 @@
 /googledrive
 /GoogleDriveSync
 /RemoteSystemsTempFiles
-/sjacksale
+/sjacksale/node_modules
+/sjacksale/platforms
+/sjacksale/cordova
+/sjacksale/plugins
 /sjs
