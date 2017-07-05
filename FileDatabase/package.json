@@ -1,0 +1,17 @@
+{
+  "name": "FileDatabase",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-jack-file-database",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "Huyen",
+  "license": "ISC"
+}
